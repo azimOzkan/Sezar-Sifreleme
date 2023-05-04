@@ -1,2 +1,2 @@
-# Sezar-Sifreleme
-C
+Düz metindeki her harfin, alfabeden belirli bir sayı ileride konumlu olan bir harfle değiştirildiği bir şifreleme türüdürdür.
+Şifrelemedeöğrenci  numaranızın  son rakamı  kadar  sağa  kaydırma işlemi yapılmalıdır. Örnek olarak öğrenci numarası 192102105 olan bir öğrenci, 5 harf sağa kaydıracak şekilde şifrelenmelidir. (Son rakamı 0 olan öğrenciler kaydırma miktarını belirlerken numarasındaki sondan başa  doğru  0  olmayan  ilk  rakamı  kullanabilirler.  Örn:  numarası 192808300 olan kişi kaydırma miktarını 3 olarak seçmelidir.) 
